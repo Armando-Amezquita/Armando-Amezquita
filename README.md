@@ -9,7 +9,7 @@ const TECH = {
   I like to get a take on new challenges learn new technologies and create personal projects."
 }
 ```
-## <h3 align="center" >Languages and Tools:</h3>
+## <h2 align="center" > 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊 𝖆𝖓𝖉 𝕿𝖔𝖔𝖑𝖘: </h2>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="70" /> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -44,7 +44,7 @@ const TECH = {
   </a>
 </p>
 
-## You can find me 👀
+## <h2> 𝖄𝖔𝖚 𝖈𝖆𝖓 𝖋𝖎𝖓𝖉 𝖒𝖊...👀 </h2>
 <a href='https://www.linkedin.com/in/armando-amezquita-molina/' target="_blank">
   <img align='center' alt='Armando-Amezquita' src='https://user-images.githubusercontent.com/70670702/150274587-261c28cc-1eb9-4e78-be47-dea098c9e927.png' />
 </a>
