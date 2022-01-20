@@ -1,7 +1,6 @@
-### Hi there 👋
-
+###
+![presentacion](https://user-images.githubusercontent.com/70670702/150272483-e1780948-db6e-43d3-a95a-eb6b2f885c26.png)
 <!--
-**Armando-Amezquita/Armando-Amezquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
