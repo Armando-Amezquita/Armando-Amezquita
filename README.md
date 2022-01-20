@@ -9,9 +9,9 @@ const TECH = {
   I like to get a take on new challenges learn new technologies and create personal projects."
 }
 ```
-## <h3 align="center">Languages and Tools:</h3>
+## <h3 align="center" >Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="70" /> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="70" /> 
   </a>
@@ -22,7 +22,7 @@ const TECH = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="70"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="70"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="60"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="70"/> 
@@ -45,10 +45,10 @@ const TECH = {
 </p>
 
 ## You can find me 👀
-<a href='https://www.linkedin.com/in/armando-amezquita-molina/'>
-  <img align='center' alt='Armando-Amezquita' src='https://user-images.githubusercontent.com/70670702/150274587-261c28cc-1eb9-4e78-be47-dea098c9e927.png' />
+<a href='https://www.linkedin.com/in/armando-amezquita-molina/' target="_blank">
+  <img align='center' width='100' alt='Armando-Amezquita' src='https://user-images.githubusercontent.com/70670702/150274587-261c28cc-1eb9-4e78-be47-dea098c9e927.png' />
 </a>
-<a href='mailto:a.amezquita.1009@gmail.com'>
+<a href='mailto:a.amezquita.1009@gmail.com' target="_blank">
   <img align='center' alt='Armando-Amezquita' src='https://user-images.githubusercontent.com/70670702/150276520-5a617f7d-403a-46dc-89ce-e54be6fa7e5d.png' />
 </a>
 📫 a.amezquita.1009@gmail.com
