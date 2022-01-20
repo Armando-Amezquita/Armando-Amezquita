@@ -46,7 +46,7 @@ const TECH = {
 
 ## You can find me 👀
 <a href='https://www.linkedin.com/in/armando-amezquita-molina/' target="_blank">
-  <img align='center' width='100' alt='Armando-Amezquita' src='https://user-images.githubusercontent.com/70670702/150274587-261c28cc-1eb9-4e78-be47-dea098c9e927.png' />
+  <img align='center' alt='Armando-Amezquita' src='https://user-images.githubusercontent.com/70670702/150274587-261c28cc-1eb9-4e78-be47-dea098c9e927.png' />
 </a>
 <a href='mailto:a.amezquita.1009@gmail.com' target="_blank">
   <img align='center' alt='Armando-Amezquita' src='https://user-images.githubusercontent.com/70670702/150276520-5a617f7d-403a-46dc-89ce-e54be6fa7e5d.png' />
